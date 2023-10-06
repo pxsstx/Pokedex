@@ -1,0 +1,9 @@
+/* App.css */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+/* App.css */
+body {
+  font-family: 'Poppins', sans-serif;
+background-color: radial-gradient(rgb(234, 88, 12), rgb(217, 119, 6), rgb(202, 138, 4));}
+
+/* Add more styles as needed */
