@@ -1,9 +1,9 @@
-import StartPage from "./StartPage";
+import Pokedex from "./pokedex";
 
 function App() {
   return (
     <div>
-      <StartPage />
+      <Pokedex />
     </div>
   );
 }
