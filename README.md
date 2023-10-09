@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # Pokedex
 # Pokedex
 # Pokedex
+# Pokedex
